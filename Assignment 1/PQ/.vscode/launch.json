@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/huangyanzhen/Desktop/Year 2 Sem 2/CISC2006/Assignments/Assignment 1/HW1_PQ_partial",
+      "program": "/Users/huangyanzhen/Desktop/Year 2 Sem 2/CISC2006/Assignments/Assignment 1/HW1_PQ_partial/build/Debug/outDebug"
+    }
+  ]
+}
